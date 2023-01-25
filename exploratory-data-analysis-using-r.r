@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "d0540ab4",
+   "id": "e55bfb1c",
    "metadata": {
     "papermill": {
-     "duration": 0.002649,
-     "end_time": "2023-01-25T06:20:21.900006",
+     "duration": 0.002994,
+     "end_time": "2023-01-25T06:22:29.192636",
      "exception": false,
-     "start_time": "2023-01-25T06:20:21.897357",
+     "start_time": "2023-01-25T06:22:29.189642",
      "status": "completed"
     },
     "tags": []
@@ -20,21 +20,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "1bfb2460",
+   "id": "2ff70a9f",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2023-01-25T06:20:21.908576Z",
-     "iopub.status.busy": "2023-01-25T06:20:21.905919Z",
-     "iopub.status.idle": "2023-01-25T06:20:23.220230Z",
-     "shell.execute_reply": "2023-01-25T06:20:23.218513Z"
+     "iopub.execute_input": "2023-01-25T06:22:29.202213Z",
+     "iopub.status.busy": "2023-01-25T06:22:29.199672Z",
+     "iopub.status.idle": "2023-01-25T06:22:30.748855Z",
+     "shell.execute_reply": "2023-01-25T06:22:30.747098Z"
     },
     "papermill": {
-     "duration": 1.320996,
-     "end_time": "2023-01-25T06:20:23.222836",
+     "duration": 1.557116,
+     "end_time": "2023-01-25T06:22:30.752144",
      "exception": false,
-     "start_time": "2023-01-25T06:20:21.901840",
+     "start_time": "2023-01-25T06:22:29.195028",
      "status": "completed"
     },
     "tags": []
@@ -61,13 +61,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "3d4dfc01",
+   "id": "4b43a001",
    "metadata": {
     "papermill": {
-     "duration": 0.001895,
-     "end_time": "2023-01-25T06:20:23.226873",
+     "duration": 0.001993,
+     "end_time": "2023-01-25T06:22:30.756374",
      "exception": false,
-     "start_time": "2023-01-25T06:20:23.224978",
+     "start_time": "2023-01-25T06:22:30.754381",
      "status": "completed"
     },
     "tags": []
@@ -78,13 +78,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "850d312a",
+   "id": "6f18066c",
    "metadata": {
     "papermill": {
-     "duration": 0.001708,
-     "end_time": "2023-01-25T06:20:23.230336",
+     "duration": 0.001849,
+     "end_time": "2023-01-25T06:22:30.760189",
      "exception": false,
-     "start_time": "2023-01-25T06:20:23.228628",
+     "start_time": "2023-01-25T06:22:30.758340",
      "status": "completed"
     },
     "tags": []
@@ -96,19 +96,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "aa43cb3c",
+   "id": "8d56d0c2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-01-25T06:20:23.264640Z",
-     "iopub.status.busy": "2023-01-25T06:20:23.235458Z",
-     "iopub.status.idle": "2023-01-25T06:20:23.896857Z",
-     "shell.execute_reply": "2023-01-25T06:20:23.895218Z"
+     "iopub.execute_input": "2023-01-25T06:22:30.796418Z",
+     "iopub.status.busy": "2023-01-25T06:22:30.766041Z",
+     "iopub.status.idle": "2023-01-25T06:22:31.499335Z",
+     "shell.execute_reply": "2023-01-25T06:22:31.497594Z"
     },
     "papermill": {
-     "duration": 0.668287,
-     "end_time": "2023-01-25T06:20:23.900375",
+     "duration": 0.741194,
+     "end_time": "2023-01-25T06:22:31.503318",
      "exception": false,
-     "start_time": "2023-01-25T06:20:23.232088",
+     "start_time": "2023-01-25T06:22:30.762124",
      "status": "completed"
     },
     "tags": []
@@ -131,6 +131,98 @@
     "ggplot(data = diamonds) +\n",
     "  geom_bar(mapping = aes(x = cut))"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "0eb543f5",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-01-25T06:22:31.513718Z",
+     "iopub.status.busy": "2023-01-25T06:22:31.511659Z",
+     "iopub.status.idle": "2023-01-25T06:22:31.601321Z",
+     "shell.execute_reply": "2023-01-25T06:22:31.567854Z"
+    },
+    "papermill": {
+     "duration": 0.098122,
+     "end_time": "2023-01-25T06:22:31.604408",
+     "exception": false,
+     "start_time": "2023-01-25T06:22:31.506286",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A tibble: 5 × 2</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>cut</th><th scope=col>n</th></tr>\n",
+       "\t<tr><th scope=col>&lt;ord&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>Fair     </td><td> 1610</td></tr>\n",
+       "\t<tr><td>Good     </td><td> 4906</td></tr>\n",
+       "\t<tr><td>Very Good</td><td>12082</td></tr>\n",
+       "\t<tr><td>Premium  </td><td>13791</td></tr>\n",
+       "\t<tr><td>Ideal    </td><td>21551</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A tibble: 5 × 2\n",
+       "\\begin{tabular}{ll}\n",
+       " cut & n\\\\\n",
+       " <ord> & <int>\\\\\n",
+       "\\hline\n",
+       "\t Fair      &  1610\\\\\n",
+       "\t Good      &  4906\\\\\n",
+       "\t Very Good & 12082\\\\\n",
+       "\t Premium   & 13791\\\\\n",
+       "\t Ideal     & 21551\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A tibble: 5 × 2\n",
+       "\n",
+       "| cut &lt;ord&gt; | n &lt;int&gt; |\n",
+       "|---|---|\n",
+       "| Fair      |  1610 |\n",
+       "| Good      |  4906 |\n",
+       "| Very Good | 12082 |\n",
+       "| Premium   | 13791 |\n",
+       "| Ideal     | 21551 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  cut       n    \n",
+       "1 Fair       1610\n",
+       "2 Good       4906\n",
+       "3 Very Good 12082\n",
+       "4 Premium   13791\n",
+       "5 Ideal     21551"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "# how many observations occurred with each x value\n",
+    "diamonds %>% \n",
+    "  count(cut)\n",
+    "#> # A tibble: 5 × 2\n",
+    "#>   cut           n\n",
+    "#>   <ord>     <int>\n",
+    "#> 1 Fair       1610\n",
+    "#> 2 Good       4906\n",
+    "#> 3 Very Good 12082\n",
+    "#> 4 Premium   13791\n",
+    "#> 5 Ideal     21551"
+   ]
   }
  ],
  "metadata": {
@@ -149,14 +241,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 5.194547,
-   "end_time": "2023-01-25T06:20:24.023928",
+   "duration": 6.098392,
+   "end_time": "2023-01-25T06:22:31.730799",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-01-25T06:20:18.829381",
+   "start_time": "2023-01-25T06:22:25.632407",
    "version": "2.4.0"
   }
  },
