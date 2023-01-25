@@ -1,4 +1,5 @@
 # Exploratory Data Analysis using R
+### EDA is an important part of any data analysis
 How to use visualization and transformation to explore data called EDA.
 
 - Generate questions about your data.
