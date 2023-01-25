@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "f2d6a1d5",
+   "id": "15602225",
    "metadata": {
     "papermill": {
-     "duration": 0.003179,
-     "end_time": "2023-01-25T06:24:10.685375",
+     "duration": 0.003444,
+     "end_time": "2023-01-25T06:29:29.636721",
      "exception": false,
-     "start_time": "2023-01-25T06:24:10.682196",
+     "start_time": "2023-01-25T06:29:29.633277",
      "status": "completed"
     },
     "tags": []
@@ -20,21 +20,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "15d58efa",
+   "id": "8c736704",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2023-01-25T06:24:10.694663Z",
-     "iopub.status.busy": "2023-01-25T06:24:10.692474Z",
-     "iopub.status.idle": "2023-01-25T06:24:12.294648Z",
-     "shell.execute_reply": "2023-01-25T06:24:12.292651Z"
+     "iopub.execute_input": "2023-01-25T06:29:29.645914Z",
+     "iopub.status.busy": "2023-01-25T06:29:29.643764Z",
+     "iopub.status.idle": "2023-01-25T06:29:31.159317Z",
+     "shell.execute_reply": "2023-01-25T06:29:31.157402Z"
     },
     "papermill": {
-     "duration": 1.609229,
-     "end_time": "2023-01-25T06:24:12.297419",
+     "duration": 1.523331,
+     "end_time": "2023-01-25T06:29:31.162662",
      "exception": false,
-     "start_time": "2023-01-25T06:24:10.688190",
+     "start_time": "2023-01-25T06:29:29.639331",
      "status": "completed"
     },
     "tags": []
@@ -61,13 +61,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "af9986a5",
+   "id": "0d0ba99a",
    "metadata": {
     "papermill": {
-     "duration": 0.002268,
-     "end_time": "2023-01-25T06:24:12.302385",
+     "duration": 0.002299,
+     "end_time": "2023-01-25T06:29:31.168037",
      "exception": false,
-     "start_time": "2023-01-25T06:24:12.300117",
+     "start_time": "2023-01-25T06:29:31.165738",
      "status": "completed"
     },
     "tags": []
@@ -78,13 +78,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e93128b5",
+   "id": "c5e7caa1",
    "metadata": {
     "papermill": {
-     "duration": 0.002189,
-     "end_time": "2023-01-25T06:24:12.307025",
+     "duration": 0.002212,
+     "end_time": "2023-01-25T06:29:31.172551",
      "exception": false,
-     "start_time": "2023-01-25T06:24:12.304836",
+     "start_time": "2023-01-25T06:29:31.170339",
      "status": "completed"
     },
     "tags": []
@@ -96,19 +96,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "becaca3b",
+   "id": "e1ff20a5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-01-25T06:24:12.344219Z",
-     "iopub.status.busy": "2023-01-25T06:24:12.313292Z",
-     "iopub.status.idle": "2023-01-25T06:24:13.092503Z",
-     "shell.execute_reply": "2023-01-25T06:24:13.090584Z"
+     "iopub.execute_input": "2023-01-25T06:29:31.209210Z",
+     "iopub.status.busy": "2023-01-25T06:29:31.178891Z",
+     "iopub.status.idle": "2023-01-25T06:29:31.874017Z",
+     "shell.execute_reply": "2023-01-25T06:29:31.872222Z"
     },
     "papermill": {
-     "duration": 0.785555,
-     "end_time": "2023-01-25T06:24:13.094893",
+     "duration": 0.701662,
+     "end_time": "2023-01-25T06:29:31.876576",
      "exception": false,
-     "start_time": "2023-01-25T06:24:12.309338",
+     "start_time": "2023-01-25T06:29:31.174914",
      "status": "completed"
     },
     "tags": []
@@ -135,19 +135,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "7a5cd239",
+   "id": "7b84ba85",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-01-25T06:24:13.104209Z",
-     "iopub.status.busy": "2023-01-25T06:24:13.102539Z",
-     "iopub.status.idle": "2023-01-25T06:24:13.189548Z",
-     "shell.execute_reply": "2023-01-25T06:24:13.153833Z"
+     "iopub.execute_input": "2023-01-25T06:29:31.885837Z",
+     "iopub.status.busy": "2023-01-25T06:29:31.884268Z",
+     "iopub.status.idle": "2023-01-25T06:29:31.965389Z",
+     "shell.execute_reply": "2023-01-25T06:29:31.931002Z"
     },
     "papermill": {
-     "duration": 0.095169,
-     "end_time": "2023-01-25T06:24:13.192890",
+     "duration": 0.089037,
+     "end_time": "2023-01-25T06:29:31.968644",
      "exception": false,
-     "start_time": "2023-01-25T06:24:13.097721",
+     "start_time": "2023-01-25T06:29:31.879607",
      "status": "completed"
     },
     "tags": []
@@ -213,33 +213,25 @@
    "source": [
     "# How many observations occurred with each x value\n",
     "diamonds %>% \n",
-    "  count(cut)\n",
-    "#> # A tibble: 5 × 2\n",
-    "#>   cut           n\n",
-    "#>   <ord>     <int>\n",
-    "#> 1 Fair       1610\n",
-    "#> 2 Good       4906\n",
-    "#> 3 Very Good 12082\n",
-    "#> 4 Premium   13791\n",
-    "#> 5 Ideal     21551"
+    "  count(cut)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "cc83bb0c",
+   "id": "6092ff52",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-01-25T06:24:13.202269Z",
-     "iopub.status.busy": "2023-01-25T06:24:13.200670Z",
-     "iopub.status.idle": "2023-01-25T06:24:13.528094Z",
-     "shell.execute_reply": "2023-01-25T06:24:13.525061Z"
+     "iopub.execute_input": "2023-01-25T06:29:31.978099Z",
+     "iopub.status.busy": "2023-01-25T06:29:31.976589Z",
+     "iopub.status.idle": "2023-01-25T06:29:32.287408Z",
+     "shell.execute_reply": "2023-01-25T06:29:32.285616Z"
     },
     "papermill": {
-     "duration": 0.335579,
-     "end_time": "2023-01-25T06:24:13.531488",
+     "duration": 0.317927,
+     "end_time": "2023-01-25T06:29:32.289754",
      "exception": false,
-     "start_time": "2023-01-25T06:24:13.195909",
+     "start_time": "2023-01-25T06:29:31.971827",
      "status": "completed"
     },
     "tags": []
@@ -263,6 +255,113 @@
     "ggplot(data = diamonds) +\n",
     "  geom_histogram(mapping = aes(x = carat), binwidth = 0.5)"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "bc15bb19",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-01-25T06:29:32.299975Z",
+     "iopub.status.busy": "2023-01-25T06:29:32.298370Z",
+     "iopub.status.idle": "2023-01-25T06:29:32.339076Z",
+     "shell.execute_reply": "2023-01-25T06:29:32.337353Z"
+    },
+    "papermill": {
+     "duration": 0.048208,
+     "end_time": "2023-01-25T06:29:32.341517",
+     "exception": false,
+     "start_time": "2023-01-25T06:29:32.293309",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A tibble: 11 × 2</caption>\n",
+       "<thead>\n",
+       "\t<tr><th scope=col>cut_width(carat, 0.5)</th><th scope=col>n</th></tr>\n",
+       "\t<tr><th scope=col>&lt;fct&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><td>[-0.25,0.25]</td><td>  785</td></tr>\n",
+       "\t<tr><td>(0.25,0.75] </td><td>29498</td></tr>\n",
+       "\t<tr><td>(0.75,1.25] </td><td>15977</td></tr>\n",
+       "\t<tr><td>(1.25,1.75] </td><td> 5313</td></tr>\n",
+       "\t<tr><td>(1.75,2.25] </td><td> 2002</td></tr>\n",
+       "\t<tr><td>(2.25,2.75] </td><td>  322</td></tr>\n",
+       "\t<tr><td>(2.75,3.25] </td><td>   32</td></tr>\n",
+       "\t<tr><td>(3.25,3.75] </td><td>    5</td></tr>\n",
+       "\t<tr><td>(3.75,4.25] </td><td>    4</td></tr>\n",
+       "\t<tr><td>(4.25,4.75] </td><td>    1</td></tr>\n",
+       "\t<tr><td>(4.75,5.25] </td><td>    1</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A tibble: 11 × 2\n",
+       "\\begin{tabular}{ll}\n",
+       " cut\\_width(carat, 0.5) & n\\\\\n",
+       " <fct> & <int>\\\\\n",
+       "\\hline\n",
+       "\t {[}-0.25,0.25{]} &   785\\\\\n",
+       "\t (0.25,0.75{]}  & 29498\\\\\n",
+       "\t (0.75,1.25{]}  & 15977\\\\\n",
+       "\t (1.25,1.75{]}  &  5313\\\\\n",
+       "\t (1.75,2.25{]}  &  2002\\\\\n",
+       "\t (2.25,2.75{]}  &   322\\\\\n",
+       "\t (2.75,3.25{]}  &    32\\\\\n",
+       "\t (3.25,3.75{]}  &     5\\\\\n",
+       "\t (3.75,4.25{]}  &     4\\\\\n",
+       "\t (4.25,4.75{]}  &     1\\\\\n",
+       "\t (4.75,5.25{]}  &     1\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A tibble: 11 × 2\n",
+       "\n",
+       "| cut_width(carat, 0.5) &lt;fct&gt; | n &lt;int&gt; |\n",
+       "|---|---|\n",
+       "| [-0.25,0.25] |   785 |\n",
+       "| (0.25,0.75]  | 29498 |\n",
+       "| (0.75,1.25]  | 15977 |\n",
+       "| (1.25,1.75]  |  5313 |\n",
+       "| (1.75,2.25]  |  2002 |\n",
+       "| (2.25,2.75]  |   322 |\n",
+       "| (2.75,3.25]  |    32 |\n",
+       "| (3.25,3.75]  |     5 |\n",
+       "| (3.75,4.25]  |     4 |\n",
+       "| (4.25,4.75]  |     1 |\n",
+       "| (4.75,5.25]  |     1 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "   cut_width(carat, 0.5) n    \n",
+       "1  [-0.25,0.25]            785\n",
+       "2  (0.25,0.75]           29498\n",
+       "3  (0.75,1.25]           15977\n",
+       "4  (1.25,1.75]            5313\n",
+       "5  (1.75,2.25]            2002\n",
+       "6  (2.25,2.75]             322\n",
+       "7  (2.75,3.25]              32\n",
+       "8  (3.25,3.75]               5\n",
+       "9  (3.75,4.25]               4\n",
+       "10 (4.25,4.75]               1\n",
+       "11 (4.75,5.25]               1"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "diamonds %>% \n",
+    "  count(cut_width(carat, 0.5))"
+   ]
   }
  ],
  "metadata": {
@@ -281,14 +380,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 6.992006,
-   "end_time": "2023-01-25T06:24:13.657114",
+   "duration": 6.533842,
+   "end_time": "2023-01-25T06:29:32.465714",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-01-25T06:24:06.665108",
+   "start_time": "2023-01-25T06:29:25.931872",
    "version": "2.4.0"
   }
  },
